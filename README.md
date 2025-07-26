@@ -41,7 +41,7 @@
 ## 🛠️ Getting Started
 
 ### ✅ Requirements
-- Python 3.7+
+- Python updated version 
 - Install optional packages:
   ```bash
   pip install requests beautifulsoup4 flask pandas matplotlib aiohttp
