@@ -1,4 +1,4 @@
-# 10 advanced_python_programs.py
+# 10 advanced_python_programs
 
 # 1. Multithreaded Web Scraper
 def multithreaded_scraper():
